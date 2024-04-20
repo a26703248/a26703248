@@ -6,6 +6,8 @@
 <p>
   🔭 I'm a software engineer, I'm 3 year of software skill,Mainly used languages ​ Java、Python、HTML、CSS、Javascript for develop, I like to study architecture and other related technologies.
 </p>
+<p/>
+<p/>
 <div>
   <a href="https://www.howardli.blog/#home">Howard 個人網站</a>
 </div>
